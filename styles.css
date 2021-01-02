@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #2c2c2c;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 8rem;
+  color: #cc4e89;
+  letter-spacing: -7px;
+}
+
+h3 {
+  margin: 30px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2rem;
+  color: #cc4e89;
+}
+
+p {
+  font-size: 2rem;
+  color: #cc4e89;
+  font-family: "Ubuntu", sans-serif;
+}
+
+img {
+  width: 60%;
+}
+
+footer {
+  margin: 5% auto 3%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
